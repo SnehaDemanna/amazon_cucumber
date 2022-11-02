@@ -9,5 +9,4 @@ Feature: to test the product search and add to cart functionality of amazon
     Then click on "img[alt='boAt Wave Call Smart Watch, Smart Talk with Advanced Dedicated Bluetooth Calling Chip, 1.69” HD Display with 550 NITS & 7...']" having desired product
 
     
-    #@And("type product \"([^\"])\" in \"([^\"])\"$")
     
