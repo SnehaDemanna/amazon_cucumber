@@ -1,0 +1,18 @@
+{ 
+"url" : "https://www.amazon.in/",
+"amazon_logo" : "#nav-logo-sprites",
+"product_name" : "smart watch",
+"search_box_locator" : "twotabsearchtextbox",
+"search_tab_locatotr" : "//input[@id='nav-search-submit-button']",
+"result_locator" : "div[class='s-matching-dir sg-col-16-of-20 sg-col sg-col-8-of-12 sg-col-12-of-16'] div:nth-child(2) div:nth-child(1) span:nth-child(1) div:nth-child(1) div:nth-child(1) span:nth-child(1)",
+"boat_watch_locator" : "//body/div[@id='a-page']/div[@id='search']/div[1]/div[1]/div[1]/span[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/span[1]/a[1]/div[1]/img[1]",
+"watch_title_locator" : "#title",
+"watch_title_text" : "boAt Wave Call Smart Watch, Smart Talk with Advanced Dedicated Bluetooth Calling Chip, 1.69” HD Display with 550 NITS & 70% Color Gamut, 150+ Watch Faces, Multi-Sport Modes,HR,SpO2, IP68(Active Black)", 
+"dropdown_locator" : "//select[@id='quantity']",
+"quantity" : "2",
+"addToCart_locator" : "//input[@id='add-to-cart-button']",
+"AddedToCart_locator" :".a-size-medium-plus.a-color-base.sw-atc-text.a-text-bold"
+}
+
+
+
